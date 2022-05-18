@@ -1,1 +1,1 @@
-https://salesforce.quip.com/V1DlAnnrAyxb
+Please find the full instruction here: https://salesforce.quip.com/V1DlAnnrAyxb
